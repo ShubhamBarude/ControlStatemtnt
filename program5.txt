@@ -20,9 +20,4 @@ public class IfElseEvenOdd
         }
     }
 }
-output:
-enetr your number:
-89
- odd number:
 
-Process finished with exit code 0
