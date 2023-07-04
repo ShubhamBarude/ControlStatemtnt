@@ -22,9 +22,4 @@ public class PossiNagNumber
         }
     }
 }
-output:
-enter a number:
--89
-negative number
 
-Process finished with exit code 0
