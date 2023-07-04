@@ -13,7 +13,5 @@ public class CheckNumber
         }
     }
 }
-output:
-not divisiable
 
-Process finished with exit code 0
+
